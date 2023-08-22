@@ -1,0 +1,63 @@
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/bin/Debug/net6.0/appsettings.Development.json
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/bin/Debug/net6.0/appsettings.json
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/bin/Debug/net6.0/BloggingPlatform.staticwebassets.runtime.json
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/bin/Debug/net6.0/BloggingPlatform.exe
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/bin/Debug/net6.0/BloggingPlatform.deps.json
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/bin/Debug/net6.0/BloggingPlatform.runtimeconfig.json
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/bin/Debug/net6.0/BloggingPlatform.dll
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/bin/Debug/net6.0/BloggingPlatform.pdb
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.csproj.AssemblyReference.cache
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.GeneratedMSBuildEditorConfig.editorconfig
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.AssemblyInfoInputs.cache
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.AssemblyInfo.cs
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.csproj.CoreCompileInputs.cache
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.MvcApplicationPartsAssemblyInfo.cache
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.RazorAssemblyInfo.cache
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.RazorAssemblyInfo.cs
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/staticwebassets/msbuild.BloggingPlatform.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/staticwebassets/msbuild.build.BloggingPlatform.props
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BloggingPlatform.props
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BloggingPlatform.props
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/staticwebassets.pack.json
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/staticwebassets.build.json
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/staticwebassets.development.json
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/scopedcss/bundle/BloggingPlatform.styles.css
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/scopedcss/projectbundle/BloggingPlatform.bundle.scp.css
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.dll
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/refint/BloggingPlatform.dll
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.pdb
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.genruntimeconfig.cache
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/ref/BloggingPlatform.dll
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/bin/Debug/net6.0/Castle.Core.dll
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/bin/Debug/net6.0/Moq.dll
+D:/Visual Studio/W5_D1_S1_Client/BloggingPlatform/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.csproj.CopyComplete
+/home/coder/project/workspace/BloggingPlatform/bin/Debug/net6.0/appsettings.Development.json
+/home/coder/project/workspace/BloggingPlatform/bin/Debug/net6.0/appsettings.json
+/home/coder/project/workspace/BloggingPlatform/bin/Debug/net6.0/BloggingPlatform.staticwebassets.runtime.json
+/home/coder/project/workspace/BloggingPlatform/bin/Debug/net6.0/BloggingPlatform
+/home/coder/project/workspace/BloggingPlatform/bin/Debug/net6.0/BloggingPlatform.deps.json
+/home/coder/project/workspace/BloggingPlatform/bin/Debug/net6.0/BloggingPlatform.runtimeconfig.json
+/home/coder/project/workspace/BloggingPlatform/bin/Debug/net6.0/BloggingPlatform.dll
+/home/coder/project/workspace/BloggingPlatform/bin/Debug/net6.0/BloggingPlatform.pdb
+/home/coder/project/workspace/BloggingPlatform/bin/Debug/net6.0/Castle.Core.dll
+/home/coder/project/workspace/BloggingPlatform/bin/Debug/net6.0/Moq.dll
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.csproj.AssemblyReference.cache
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.AssemblyInfoInputs.cache
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.AssemblyInfo.cs
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.csproj.CoreCompileInputs.cache
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.MvcApplicationPartsAssemblyInfo.cache
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.RazorAssemblyInfo.cache
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.RazorAssemblyInfo.cs
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/staticwebassets.build.json
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/staticwebassets.development.json
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/scopedcss/bundle/BloggingPlatform.styles.css
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/scopedcss/projectbundle/BloggingPlatform.bundle.scp.css
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.csproj.CopyComplete
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.dll
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/refint/BloggingPlatform.dll
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.pdb
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/BloggingPlatform.genruntimeconfig.cache
+/home/coder/project/workspace/BloggingPlatform/obj/Debug/net6.0/ref/BloggingPlatform.dll

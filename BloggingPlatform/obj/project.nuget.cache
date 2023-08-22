@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M+GpJWSxnC2/Vzhiun2OY7niYLEpqcMhgwHMrf4LDw2S1yaEasuDiMyaoz38gkqH1NvuJnjb6drZOOwn+TcVBg==",
+  "success": true,
+  "projectFilePath": "/home/coder/project/workspace/BloggingPlatform/BloggingPlatform.csproj",
+  "expectedPackageFiles": [
+    "/home/coder/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/home/coder/.nuget/packages/moq/4.20.69/moq.4.20.69.nupkg.sha512",
+    "/home/coder/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
