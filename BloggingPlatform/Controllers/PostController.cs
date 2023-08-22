@@ -7,6 +7,8 @@ using System.Linq;
 
 namespace BloggingPlatform.Controllers
 {
+    public class PostController : Controller
+    {}
     // Write your Controller here...
     // Create
     // Index

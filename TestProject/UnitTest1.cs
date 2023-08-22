@@ -29,13 +29,13 @@ namespace BloggingPlatform.Tests
         [SetUp]
         public void Setup()
         {
-            _postcontroller = new PostController();         
+            // _postcontroller = new PostController();         
         }
 
         [TearDown]
         public void TearDown()
         {
-            _postcontroller = null;
+            // _postcontroller = null;
         }
 
         private static MethodInfo GetMethod(Type type, string methodName, Type[] parameterTypes)
